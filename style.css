@@ -1,0 +1,78 @@
+body {
+    font: 16px;
+    background: #605177;
+}
+#container{
+    width: 100%;
+    margin: 0 auto;
+}
+#header {
+    background-image: url("bg.jpg");
+    background-size: auto;
+    height: 250px;
+    color: #ffe;
+    font-size: 5em;
+    text-align: center;
+    padding-top: 55px;
+}
+#sidebar {
+    width: 280px;
+    float: left;
+    height: 2360px;
+    background: #d0c6ec;
+    padding-left: 25px;
+    font-size: 1.5em;
+}
+h2 {
+    font-size: 1.2em;
+    /* Размер шрифта */
+    color: #5b1683;
+    /* Цвет текста */
+    margin-top: 0;
+    /* Отступ сверху */
+}
+#content {
+    height: 2300px;
+    /* Ширина слоя */
+    font-size: 1.8em;
+    margin-left: 310px;
+    /* Отступ слева */
+    padding: 30px;
+    /* Поля вокруг текста */
+    background: #f1d75f;
+    /* Цвет фона правой колонки */
+}
+#content li{
+    color:rgb(24, 3, 44);
+}
+.box {
+    font-size: 20px;
+}
+
+.text {
+    width: 1000px;
+    height: 600px;
+    padding: 25px;
+    font-family: 'Supermercado One', cursive;
+    font-weight: 700;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: none;
+    text-transform: none;
+    text-align: justify;
+    line-height: 2;
+    color:rgb(5, 5, 5);
+    
+    background-image: url("https://64.media.tumblr.com/tumblr_mbnik2lM8i1qdpzt2o1_1280.gifv");
+    background-color: #4d7fe9;
+    background-repeat: no-repeat;
+    background-size: 450px;
+    background-position: bottom left;
+
+
+
+}
+
+.text_mult{
+    
+}
